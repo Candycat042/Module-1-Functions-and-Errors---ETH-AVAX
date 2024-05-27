@@ -26,8 +26,3 @@ Functionality
 Contract successfully uses require()
 Contract successfully uses assert()
 Contract successfully uses revert() statements
-
-Explanation
-Code read-aloud is submitted
-Code read-aloud is complete (all steps explained)
-Code read-aloud is clear and understandable
